@@ -1,0 +1,73 @@
+@font-face
+{
+	font-family:cd;
+	src:url('Caviar_Dreams_Bold.ttf');
+}
+#outer
+{
+	
+	height:635px;
+	width:1350px;
+	background-image:url('../images/b16.jpg');
+	background-color:white;
+	background-repeat:no-repeat;
+	background-size:100%;
+	border:1px solid;
+	//#9FF19D color
+}
+#outer1
+{
+	height:500px;
+	width:450px;
+	margin-top:80px;
+	margin-left:80px;
+	border:1px solid transparent;
+	float:left;
+}
+#img1
+{
+	height:100px;
+	width:450px;
+	background-image:url('../images/karam.png'); 
+	background-repeat:no-repeat; 
+	margin-left:100px;
+}
+#img2
+{
+	height:400px;
+	width:450px;
+	background-image:url('../images/extra.jpg'); 
+	background-repeat:no-repeat; 
+}
+#outer2
+{
+	
+	height:400px;
+	width:350px;
+	margin-right:50px;
+	margin-top:80px;
+	border-radius:100px;
+	font-family:cd;
+	border:1px solid;
+	background-color:rgb(0,0,0,0.3);
+	float:right; 
+	
+}
+#img
+{
+	height:100px;
+	width:350px;
+	color:white;
+	font-family:cd;
+	font-size:20px;
+	margin-left:100px;
+	margin-top:10px;
+}
+#txt
+{
+	height:300px;
+	width:350px;
+	margin-top:40px;
+	padding:45px;
+	/*background-color:rgb(0,255,255);*/
+}

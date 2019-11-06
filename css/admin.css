@@ -1,0 +1,339 @@
+@font-face
+{
+	font-family:cd;
+	src:url('Caviar_Dreams_Bold.ttf');
+}
+
+#outer
+{
+	height:650px;
+	width:1350px;
+	//border:1px solid purple;
+	background-color:rgb(0,0,0,0.2);
+
+}
+#ad1 
+{
+	display:block;
+	text-decoration:none;
+	color:#fff;
+}
+#outer1
+{
+	height:110px;
+	width:1350px;
+	border:1px solid transparent;
+	background-color:rgb(0,0,0,0.2);
+
+}
+
+#h1
+{
+	height:50px;
+	width:170px;
+	border:1px solid transparent;
+	margin:0px auto;
+	margin-top:45px;
+	font-family:cd;
+	font-size:45px;
+	color:white;
+	
+}
+
+#dash
+{
+	height:60px;
+	width:165px;
+	 background-image:url('../images/karam.png'); 
+	background-repeat:no-repeat; 
+	background-size:100%;
+	margin-left:20px;
+	margin-top:20px;
+	margin-bottom:20px;
+	float:left;
+}
+#outer2
+{
+	height:600px;
+	width:1350px;
+	//border:1px solid transparent;
+	background-color:rgb(0,0,0,0.2);
+
+}
+#outer21
+{
+	height:600px;
+	width:200px;
+	/*border:1px solid black;
+	background-color:green;*/
+	float:left;
+}
+#admin
+{
+	height:200px;
+	width:200px;
+	background-color:#214B7F;
+	background-image:url('../images/.jpg');
+	background-repeat:no-repeat;
+	background-size:100%;
+	border-radius:45px;
+}
+#ad1
+{
+	height:400px;
+	width:200px;
+	background-color:rgb(0,0,0,0.2);
+	
+}
+#outer22
+{
+	height:600px;
+	width:1150px;
+	/*border:1px solid black;*/
+	background-color:#bfbfbf;
+	float:left;
+
+}
+#outer221
+{
+	height:200px;
+	width:1150px;
+	/*background-color:red;*/
+}
+#a1
+{
+	height:200px;
+	width:400px;
+	//background-color:#80bfff;
+	float:left;
+}
+#a11
+{
+	height:150px;
+	width:150px;
+	 background-image:url('../images/leave.png'); 
+	background-repeat:no-repeat; 
+	/*background-size:100%;*/
+	margin-left:10px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#a12
+{
+	height:150px;
+	width:210px;
+	float:right;
+	margin-top:40px;
+}
+
+#a2
+{
+	height:200px;
+	width:350px;
+	//background-color:#80bfff;
+	float:left;
+	
+	
+}
+#a21
+{
+	height:150px;
+	width:150px;
+	background-image:url('../images/add.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	margin-left:10px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#a22
+{
+	height:150px;
+	width:160px;
+	float:right;
+	margin-top:40px;
+}
+#a3
+{
+	height:200px;
+	width:400px;
+	//background-color:#80bfff;
+	float:left;
+}
+#a31
+{
+	height:150px;
+	width:150px;
+	background-image:url('../images/logout.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	margin-left:20px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#a32
+{
+    height:150px;
+	width:200px;
+	float:right;
+	margin-top:40px;	
+}
+#outer222
+{
+	height:200px;
+	width:1150px;
+	/*background-color:yellow;*/
+}
+#b1
+{
+	height:200px;
+	width:570px;
+	//background-color:#80bfff;
+	float:left;
+	
+}
+#b11
+{
+	height:150px;
+	width:150px;
+	background:url('../images/pass.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	margin-left:160px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#b12
+{
+    height:150px;
+	width:220px;
+	float:right;
+	margin-top:40px;	
+}
+#b2
+{
+	height:200px;
+	width:580px;
+	//background-color:#80bfff;
+	float:left;
+	
+}
+#b21
+{
+	height:150px;
+	width:150px;
+	background:url('../images/salary.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	margin-left:10px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#b22
+{
+    height:150px;
+	width:300px;
+	float:right;
+	margin-top:40px;	
+}
+#outer223
+{
+	height:200px;
+	width:1150px;
+	/*background-color:purple;*/
+}
+#c1
+{
+	height:200px;
+	width:400px;
+	//background-color:#80bfff;
+	float:left;
+	
+}
+#c11
+{
+	height:150px;
+	width:150px;
+	background-image:url('../images/view.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	margin-left:20px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#c12
+{
+    height:150px;
+	width:200px;
+	float:right;
+	margin-top:40px;	
+}
+#c2
+{
+	height:200px;
+	width:350px;
+	//background-color:#80bfff;
+	float:left;
+	
+}
+#c21
+{
+	height:150px;
+	width:150px;
+	background-image:url('../images/addd.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#c22
+{
+    height:150px;
+	width:190px;
+	float:right;
+	margin-top:40px;	
+}
+#c3
+{
+	height:200px;
+	width:400px;
+	//background-color:#80bfff;
+	float:left;
+	
+}
+#c31
+{
+	height:150px;
+	width:150px;
+	background-image:url('../images/about.png');
+	background-repeat:no-repeat;
+	/*background-size:100%;*/
+	margin-left:20px;
+	margin-top:20px;
+	border-radius:10px;
+	float:left;
+}
+#adm {
+    position: absolute;
+    left: 79px;
+    top: 240px;
+}
+#c32
+{
+    height:150px;
+	width:200px;
+	float:right;
+	margin-top:40px;	
+}
+a
+{
+	color:white;
+}

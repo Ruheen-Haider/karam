@@ -1,0 +1,102 @@
+#outer
+{
+	height:635px;
+	width:1350px;
+	background-color:#bfbfbf;
+	border:1px solid;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+	font-family:cd;
+	margin-left:850px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+	margin-left:300px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+	margin-left:850px;
+}
+
+.dropdown-content a
+ {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+
+#one
+{
+	height:70;
+	width:1350;
+	background-color:rgb(0,0,0,0.2);
+	float:left;
+	border:1px solid;
+}
+#h1
+{
+	height:50px;
+	width:170px;
+	border:1px solid transparent;
+	margin:0px auto;
+	margin-top:20px;
+	font-family:cd;
+	font-size:45px;
+	color:white;
+	
+}
+
+#dash
+{
+	height:60px;
+	width:165px;
+	 background-image:url('../images/karam.png'); 
+	background-repeat:no-repeat; 
+	background-size:100%;
+	margin-left:20px;
+	margin-top:5px;
+	margin-bottom:20px;
+	float:left;
+}
+
+
+#outer1
+{
+	height:450px;
+	width:400px;
+	background-color:rgb(0,0,0,0.3);
+	margin-top:80px;
+	margin-left:450px;
+	border-radius:50px;
+	border-bottom:2px solid;
+	border-left:2px solid;
+	border:1px solid;
+	box-shadow:5px 5px 5px 0px;
+}
+#tbl
+{
+	margin-left:5px;
+	margin-top:15px;
+}
